@@ -1,6 +1,6 @@
 # Blogger
 
-![Imagen del proyecto](https://github.com/JuanCarlosAlo/Huddle-2/blob/main/design/wn3pttg6nwgymod2iqxy.jpg?raw=true)
+![Imagen del proyecto](https://github.com/JuanCarlosAlo/Blogger/blob/main/images/awqnouxukwefdkaqt5iq.jpg?raw=true)
 
 ## Ejemplo en vivo
 
@@ -22,7 +22,7 @@ Este proyecto fue uno de los mas dificiles de lograr debido al planteamiento del
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://es.wikipedia.org/wiki/HTML5)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://es.wikipedia.org/wiki/CSS)
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://es.wikipedia.org/wiki/JavaScript)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
 
 ## Vista previa del proyecto
 
@@ -30,15 +30,11 @@ Si quieres echar un vistazo al proyecto, te recomiendo:
 
 ## Ordenador
 
-![Captura del proyecto](https://github.com/JuanCarlosAlo/Huddle-2/blob/main/design/desktop.jpg?raw=true)
-
-## Estados activos
-
-![Captura del proyecto](https://github.com/JuanCarlosAlo/Huddle-2/blob/main/design/active.jpg?raw=true)
+![Captura del proyecto](https://github.com/JuanCarlosAlo/Blogger/blob/main/images/awqnouxukwefdkaqt5iq.jpg?raw=true)
 
 ## Movil
 
-![Captura del proyecto](https://github.com/JuanCarlosAlo/Huddle-2/blob/main/design/mobile.jpg?raw=true)
+![Captura del proyecto](https://github.com/JuanCarlosAlo/Blogger/blob/main/images/th5eozdywkv9090e7nks.jpg?raw=true)
 
 ## Autor
 
