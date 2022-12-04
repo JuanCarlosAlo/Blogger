@@ -2,6 +2,9 @@
 
 ![Imagen del proyecto](https://github.com/JuanCarlosAlo/Blogger/blob/main/images/awqnouxukwefdkaqt5iq.jpg?raw=true)
 
+## Ejemplo en vivo
+
+- [Live Demo](https://juancarlosalo.github.io/Blogger/)
 
 ## Descripción
 
@@ -19,7 +22,6 @@ Este proyecto fue uno de los mas dificiles de lograr debido al planteamiento del
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://es.wikipedia.org/wiki/CSS)
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://es.wikipedia.org/wiki/JavaScript)
 
-
 ## Vista previa del proyecto
 
 Si quieres echar un vistazo al proyecto, te recomiendo:
@@ -34,8 +36,7 @@ Si quieres echar un vistazo al proyecto, te recomiendo:
 
 ## Autor
 
-
--  Email: jc.alonsome@gmail.com
+- Email: jc.alonsome@gmail.com
 - [Linkedin](https://www.linkedin.com/in/juan-carlos-alonso-966280166/)
 - [GitHub](https://github.com/JuanCarlosAlo)
 
