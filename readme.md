@@ -2,10 +2,6 @@
 
 ![Imagen del proyecto](https://github.com/JuanCarlosAlo/Blogger/blob/main/images/awqnouxukwefdkaqt5iq.jpg?raw=true)
 
-## Ejemplo en vivo
-
-- [Live Demo](https://juancarlosalo.github.io/Huddle-2/)
-
 
 ## Descripción
 
